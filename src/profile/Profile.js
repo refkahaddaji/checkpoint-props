@@ -26,5 +26,6 @@ Profile.propTypes = {
     fullName: PropTypes.string,
     bio: PropTypes.string,
     profession: PropTypes.string,
+    handleName: PropTypes.func
   };
 export default Profile;
