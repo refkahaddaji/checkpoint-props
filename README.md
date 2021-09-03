@@ -1,3 +1,4 @@
+<div class="checkpoint-instructions"><div class="title"><span>Instructions</span></div><div class="checkpoint-content"><ul><li><i>Create a project using create-react-app.</i></li><li><i>Create a <strong>profile</strong> folder under <strong>src</strong>.</i></li><li><i>Create a profile component under /profile.</i></li><li><i>The profile component gets data (fullName, bio, profession) as props, and gets image as children props, and the function handleName functions as a prop that sends an alert message with the name of the profile user.</i></li><li><i>Define the default props for Profile component.&nbsp;</i></li><li><i>Use PropsType to check props.&nbsp;&nbsp;</i></li><li><i>Use inline style.</i></li></ul></div></div>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
